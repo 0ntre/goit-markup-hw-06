@@ -394,7 +394,7 @@ body {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/mob-bg.jpg);
+      url(../images/tab-bg.jpg);
   }
 
   @media (min-device-pixel-ratio: 2),
@@ -405,7 +405,7 @@ body {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/mob-bg@2x.jpg);
+        url(../images/tab-bg@2x.jpg);
     }
   }
 
@@ -426,7 +426,7 @@ body {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/mob-bg.jpg);
+      url(../images/desk-bg.jpg);
   }
 
   @media (min-device-pixel-ratio: 2),
@@ -437,7 +437,7 @@ body {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/mob-bg@2x.jpg);
+        url(../images/desk-bg@2x.jpg);
     }
   }
 
