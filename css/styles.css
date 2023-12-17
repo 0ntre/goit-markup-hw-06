@@ -843,3 +843,44 @@ body {
     margin-top: 16px;
   }
 }
+
+@media screen and (min-width: 768px) {
+  .footer-content {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    padding: 0 164px 0 108px;
+  }
+
+  .container-item-position {
+    margin-right: 24px;
+    margin-bottom: 72px;
+  }
+
+  .subscribe-form {
+    display: flex;
+    gap: 24px;
+  }
+}
+
+@media screen and (min-width: 1158px) {
+  .footer-container {
+    padding: 100px 0;
+  }
+
+  .footer-content {
+    flex-wrap: nowrap;
+    padding: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .container-item-position {
+    margin-right: 120px;
+    margin-bottom: 0;
+  }
+
+  .social-links-position {
+    margin-right: 80px;
+  }
+}
