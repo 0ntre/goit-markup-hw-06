@@ -794,7 +794,6 @@ body {
     flex-wrap: nowrap;
     margin-right: auto;
     margin-left: auto;
-    justify-content: space-between;
   }
 
   .container-item-position {
